@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GaryIsmay
-- 👀 iOS Developer based in Lytham St Annes
+- 👀 iOS Developer based in the north west of England
 
 
 <!---
